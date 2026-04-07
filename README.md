@@ -84,6 +84,16 @@ python3 05_export_tableau.py
 | 6 | State Exposure Ranking | Colorado and Texas most exposed |
 | 7–9 | Prophet Forecasts | Soybeans +17%, Corn +9%, Wheat –1% |
 
+![Price Trends](data/figures/01_price_trends.png)
+![Volatility Heatmap](data/figures/02_volatility_heatmap.png)
+![Price Swings](data/figures/03_price_swings.png)
+![Farm Price vs CPI](data/figures/04_farm_price_vs_cpi.png)
+![Rolling Volatility](data/figures/05_rolling_volatility.png)
+![State Exposure](data/figures/06_state_exposure.png)
+![Wheat Forecast](data/figures/07_forecast_wheat.png)
+![Corn Forecast](data/figures/08_forecast_corn.png)
+![Soybeans Forecast](data/figures/09_forecast_soybeans.png)
+
 ---
 
 ## 6-Month Forecast (April–October 2026)
