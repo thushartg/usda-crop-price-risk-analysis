@@ -69,9 +69,9 @@ Farm-gate prices correlate with the commodity CPI at **r = 0.90–0.96** across 
 
 ## Risk Flags to Watch
 
-- 🌡️ **Drought in the Southern Plains** — Kansas, Oklahoma, Texas wheat and corn are the highest-CV state–crop combinations. A La Niña pattern or PDSI drought signal is the single biggest upside price risk.
-- 🌍 **Black Sea export disruptions** — Wheat in particular is globally priced; any escalation affecting Ukrainian/Russian exports will transmit directly to US farm-gate prices within 4–6 weeks.
-- 📈 **Soybean crush demand** — US biodiesel mandates and Chinese import volumes are the primary driver of soybean price upside. Monitor USDA weekly export inspection data.
+-  **Drought in the Southern Plains** — Kansas, Oklahoma, Texas wheat and corn are the highest-CV state–crop combinations. A La Niña pattern or PDSI drought signal is the single biggest upside price risk.
+-  **Black Sea export disruptions** — Wheat in particular is globally priced; any escalation affecting Ukrainian/Russian exports will transmit directly to US farm-gate prices within 4–6 weeks.
+-  **Soybean crush demand** — US biodiesel mandates and Chinese import volumes are the primary driver of soybean price upside. Monitor USDA weekly export inspection data.
 
 ---
 
