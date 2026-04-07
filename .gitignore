@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+env/
+venv/
+
+# Generated database (rebuild with 01_build_database.py)
+data/agri.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+._*
+
+# Tableau temp files
+*.twbr
+.~*
+
+# Redundant outputs
+data/forecast/all_forecasts.csv
