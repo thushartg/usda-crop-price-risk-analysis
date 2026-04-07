@@ -9,10 +9,10 @@
 A full end-to-end data analysis pipeline using USDA farm-gate price data (2010–2024) and FRED commodity CPI indices to identify price risk across wheat, corn, and soybean markets — with a 6-month Prophet forecast and Tableau dashboard.
 
 ### Key Findings
-- 🌽 **Corn** is the most volatile crop (CV 28.5%), followed by Wheat (25.5%) and Soybeans (20.5%)
-- 🗺️ **Colorado, Texas, Kansas, Nebraska** are the highest price-risk states
-- 📈 **Soybeans** forecast to rise +17% over the next 6 months (Apr–Oct 2026)
-- 🔗 Farm prices track commodity CPI with **r = 0.90–0.96** — CPI is a reliable 4–6 week leading indicator
+-  **Corn** is the most volatile crop (CV 28.5%), followed by Wheat (25.5%) and Soybeans (20.5%)
+-  **Colorado, Texas, Kansas, Nebraska** are the highest price-risk states
+-  **Soybeans** forecast to rise +17% over the next 6 months (Apr–Oct 2026)
+-  Farm prices track commodity CPI with **r = 0.90–0.96** — CPI is a reliable 4–6 week leading indicator
 
 ---
 
